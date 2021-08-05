@@ -4,3 +4,5 @@ Widgets can allow for adding an optional trend line, selecting a desired statist
 
 To run manually:
 Open code in R and hit 'Run App' on either file on the main branch
+
+
